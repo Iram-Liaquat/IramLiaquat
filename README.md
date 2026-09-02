@@ -1,6 +1,6 @@
 # Hi, I'm Iram Liaquat 👋
 
-**Mechatronics Engineer | Embedded QA Engineer**
+**Mechatronics Engineer | Embedded QA Engineer @ Motive**
 
 I build and validate embedded systems at the intersection of hardware, firmware, and software. Currently validating automotive telematics for a global fleet of 10,000+ connected vehicles at Motive.
 
