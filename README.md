@@ -10,7 +10,7 @@ I build and validate embedded systems at the intersection of hardware, firmware,
 
 - **BS Mechatronics & Control Engineering** - University of Engineering and Technology (UET), Lahore
   - CGPA: 3.11/4.00
-  - Core coursework: Embedded Systems, Real-Time Systems, Control Systems, Robotics, Automation, Intelligent Systems
+  - **Relevant Coursework:** Electronic Devices and Circuits, Signals and Systems, Power Electronics, Electrical Circuits, Control Systems I & II, Modeling and Simulation, Instrumentation and Measurements, Robotics, Industrial Automation, Digital Logic Design.
 
 - **Final Year Thesis:** Operation Theatre Assistive Robot
   - Developed a 4-DOF robotic system for surgical-tool retrieval
@@ -69,7 +69,7 @@ I build and validate embedded systems at the intersection of hardware, firmware,
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/iram-liaquat-92689b167/)
-- 📧 Email: [iram.liaquat.7528@gmail.com](mailto:iram.liaquat.7528@gmail.com)
+- 📧 [iram.liaquat.7528@gmail.com](mailto:iram.liaquat.7528@gmail.com)
 
 ---
 
